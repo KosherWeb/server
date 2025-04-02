@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>System Message</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+        p {
+            font-size: 16px;
+            color: #555;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 15px;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Special Offer Just for You! 🎉</h2>
+    <img src="https://via.placeholder.com/300" alt="Special Offer">
+    <p>Don't miss out on this amazing deal! Share it with your friends now.</p>
+
+    <button onclick="shareMessage()">Share Now</button>
+
+    <script>
+        function shareMessage() {
+            const text = "Check out this amazing offer! 🎉 https://example.com";
+            if (navigator.share) {
+                navigator.share({
+                    title: 'Special Offer',
+                    text: text,
+                    url: 'https://example.com'
+                }).then(() => {
+                    console.log('Shared successfully');
+                }).catch((error) => {
+                    console.error('Error sharing:', error);
+                });
+            } else {
+                window.location.href = 'android-app://com.android.chrome?text=' + encodeURIComponent(text);
+            }
+        }
+    </script>
+
+</body>
+</html>
