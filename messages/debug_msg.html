@@ -45,6 +45,11 @@
 
     <button onclick="shareMessage()">Share Now</button>
 
+    <a href="intent://share/#Intent;action=android.intent.action.SEND;type=text/plain;S.android.intent.extra.TEXT=Hello%20World!;end;">
+    Share This Text
+</a>
+
+
     <script>
         function shareMessage() {
             const text = "Check out this amazing offer! 🎉 https://example.com";
