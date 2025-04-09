@@ -1,702 +1,702 @@
 [
     {
-        "host": "www.youtube.com",
+        "value": "www.youtube.com",
         "status": 4,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.tiktok.com",
+        "value": "www.tiktok.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "aliexpress.com",
+        "value": "aliexpress.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "shein.com",
+        "value": "shein.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "moovit.onelink.me",
+        "value": "moovit.onelink.me",
         "status": 10,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "dailymotion.com",
+        "value": "dailymotion.com",
         "status": 8,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "play.google.com",
+        "value": "play.google.com",
         "status": 5,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "13tv.co.il",
+        "value": "13tv.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "sites.google.com",
+        "value": "sites.google.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "kan.org.il",
+        "value": "kan.org.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "wikipedia.co.il",
+        "value": "wikipedia.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "kipa.co.il",
+        "value": "kipa.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "liteapks.com",
+        "value": "liteapks.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.google.com",
+        "value": "www.google.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "brawlstars.com",
+        "value": "brawlstars.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "jut-su.net",
+        "value": "jut-su.net",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.bandsintown.com",
+        "value": "www.bandsintown.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "isport.co.il",
+        "value": "isport.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "facebook.com",
+        "value": "facebook.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "pixabay.com",
+        "value": "pixabay.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "site123.com",
+        "value": "site123.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "t.me",
+        "value": "t.me",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.canva.com",
+        "value": "www.canva.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "m.alibaba.com",
+        "value": "m.alibaba.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.temu.com",
+        "value": "www.temu.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.zara.com",
+        "value": "www.zara.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.footlocker.co.il",
+        "value": "www.footlocker.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.sacara.co.il",
+        "value": "www.sacara.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.instagram.com",
+        "value": "www.instagram.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.ynet.co.il",
+        "value": "www.ynet.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "lp6.senzey.com",
+        "value": "lp6.senzey.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "accounts.nike.com",
+        "value": "accounts.nike.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "survey.polyeda.com",
+        "value": "survey.polyeda.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.atzuma.co.il",
+        "value": "www.atzuma.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.wikirefua.org.il",
+        "value": "www.wikirefua.org.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.pinterest.com",
+        "value": "www.pinterest.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "super-pharm.co.il",
+        "value": "super-pharm.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "ngl.link",
+        "value": "ngl.link",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "now14.co.il",
+        "value": "now14.co.il",
         "status": 9,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "golfkids.co.il",
+        "value": "golfkids.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "suno.com",
+        "value": "suno.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.dropbox.com",
+        "value": "www.dropbox.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "ravpage.co.il",
+        "value": "ravpage.co.il",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "doubleclick.net",
+        "value": "doubleclick.net",
         "status": 15,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "apkcombo.com",
+        "value": "apkcombo.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "app.dudeperfect.com",
+        "value": "app.dudeperfect.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "garticphone.com",
+        "value": "garticphone.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.delta.co.il",
+        "value": "www.delta.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.aireuropa.com",
+        "value": "www.aireuropa.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.telegram.org",
+        "value": "www.telegram.org",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "kiwi-kids.co.il",
+        "value": "kiwi-kids.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "buyme.co.il",
+        "value": "buyme.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "il.academe.plus",
+        "value": "il.academe.plus",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.spotify.com",
+        "value": "www.spotify.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "sourceforge.net",
+        "value": "sourceforge.net",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.adobe.com",
+        "value": "www.adobe.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.adidas.co.il",
+        "value": "www.adidas.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "tunebat.com",
+        "value": "tunebat.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.baba-mail.co.il",
+        "value": "www.baba-mail.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.seaschool.co.il",
+        "value": "www.seaschool.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "walitex.com",
+        "value": "walitex.com",
         "status": 1,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.kankids.org.il",
+        "value": "www.kankids.org.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "fxnow.fxnetworks.com",
+        "value": "fxnow.fxnetworks.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.lupa.co.il",
+        "value": "www.lupa.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.israelhayom.co.il",
+        "value": "www.israelhayom.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.sport5.co.il",
+        "value": "www.sport5.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.one.co.il",
+        "value": "www.one.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "shavshevet.tickchak.co.il",
+        "value": "shavshevet.tickchak.co.il",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.castro.com",
+        "value": "www.castro.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "il.secretly.world",
+        "value": "il.secretly.world",
         "status": 11,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "asos.com",
+        "value": "asos.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "walla.co.il",
+        "value": "walla.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "makorrishon.co.il",
+        "value": "makorrishon.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.golfgroup.co.il",
+        "value": "www.golfgroup.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "getshopdeal.com",
+        "value": "getshopdeal.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "vimeo.com",
+        "value": "vimeo.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.midrag.co.il",
+        "value": "www.midrag.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "tickchak.co.il",
+        "value": "tickchak.co.il",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "market.yad2.co.il",
+        "value": "market.yad2.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.dugit.co.il",
+        "value": "www.dugit.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.booking.com",
+        "value": "www.booking.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.terminalx.com",
+        "value": "www.terminalx.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "he.m.wikipedia.org",
+        "value": "he.m.wikipedia.org",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "jacobhotels.com",
+        "value": "jacobhotels.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.apkmirror.com",
+        "value": "www.apkmirror.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "liveball.uno",
+        "value": "liveball.uno",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.ourboox.com",
+        "value": "www.ourboox.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.sahbak.co.il",
+        "value": "www.sahbak.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "xdaforums.com",
+        "value": "xdaforums.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.ice.co.il",
+        "value": "www.ice.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "apkmody.com",
+        "value": "apkmody.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "rumble.com",
+        "value": "rumble.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.cashback.co.il",
+        "value": "www.cashback.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.kipling-usa.com",
+        "value": "www.kipling-usa.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "agalease-baby.co.il",
+        "value": "agalease-baby.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "adahlazorgan.co.il",
+        "value": "adahlazorgan.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "tzz.co.il",
+        "value": "tzz.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "cellcom.co.il",
+        "value": "cellcom.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "shanijacobi.co.il",
+        "value": "shanijacobi.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "youtube.com",
+        "value": "youtube.com",
         "status": 4,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "shop.yafa-maximov.co.il",
+        "value": "shop.yafa-maximov.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "online.anyflip.com",
+        "value": "online.anyflip.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "chatgpt.com",
+        "value": "chatgpt.com",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.payngo.co.il",
+        "value": "www.payngo.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.huggies.co.il",
+        "value": "www.huggies.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.maxstock.co.il",
+        "value": "www.maxstock.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.wikipedia.org",
+        "value": "www.wikipedia.org",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "podcastim.org.il",
+        "value": "podcastim.org.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "wingate.org.il",
+        "value": "wingate.org.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.mediafire.com",
+        "value": "www.mediafire.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "n12.co.il",
+        "value": "n12.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "commons.m.wikimedia.org",
+        "value": "commons.m.wikimedia.org",
         "status": 1,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.cal-store.co.il",
+        "value": "www.cal-store.co.il",
         "status": 7,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.calameo.com",
+        "value": "www.calameo.com",
         "status": 6,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "www.icloud.com",
+        "value": "www.icloud.com",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "embyil.tv",
+        "value": "embyil.tv",
         "status": 3,
         "level": 0,
         "gender": 0
     },
     {
-        "host": "shironet.mako.co.il",
+        "value": "shironet.mako.co.il",
         "status": 3,
         "level": 0,
         "gender": 0
