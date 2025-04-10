@@ -49,6 +49,6 @@
   "versions": {
     "app-version": 33,
     "supported-app-version": 32,
-    "request-form-version": 2
+    "request-form-version": 32
   }
 }
