@@ -6886,5 +6886,213 @@
         "category": 16,
         "level": 0,
         "gender": 0
+    },
+    {
+        "id": 995,
+        "url": "https://bloy.co.il/",
+        "name": "בלוי ספרים",
+        "category": 4,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 996,
+        "url": "https://www.israelbar.biz/",
+        "name": "לשכת עורכי הדין בישראל",
+        "category": 6,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 997,
+        "url": "https://tzilzul.co.il/",
+        "name": "הצלצול - סלולר",
+        "category": 4,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 998,
+        "url": "https://borkard.com/",
+        "name": "Borkard - ברוקרד",
+        "category": 4,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 999,
+        "url": "https://nziv.net/",
+        "name": "נציב.נט - מודיעין מהמקורות הגלויים",
+        "category": 0,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1000,
+        "url": "https://kbfashion.co.il/",
+        "name": "KB | קייבי | אופנה",
+        "category": 17,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1001,
+        "url": "https://chayey-olam.netlify.app/",
+        "name": "חיי עולם | מבחני גמרא",
+        "category": 1,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1002,
+        "url": "https://www.lironjewelry.co.il/",
+        "name": "לירון תכשיטים",
+        "category": 17,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1003,
+        "url": "https://hamvsr.co.il/",
+        "name": "המבשר - עיתון",
+        "category": 0,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1004,
+        "url": "https://achiyayeda.org/",
+        "name": "אחיה ידע - כלים ותוכן לימודי",
+        "category": 2,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1005,
+        "url": "https://bobot-israel.com/",
+        "name": "בובוט - ישראל - BOBOT",
+        "category": 4,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1006,
+        "url": "https://nhlocal.github.io/shir-bot/",
+        "name": "שיר בוט",
+        "category": 7,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1007,
+        "url": "https://babajig.co.il/",
+        "name": "בבאג'יג - חנות דיג",
+        "category": 4,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1008,
+        "url": "https://77012.blogspot.com/?m=1",
+        "name": "לחלוחית גאולתית - חבד",
+        "category": 1,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1009,
+        "url": "https://madrichim.ovh/",
+        "name": "פורום מדריכים",
+        "category": 5,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1010,
+        "url": "https://www.liveraiser.co.il/",
+        "name": "לייברייזר גיוס המונים | LiveRaiser",
+        "category": 13,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1011,
+        "url": "https://nkhashmal.com/",
+        "name": "NK חשמל וסלולר",
+        "category": 4,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1012,
+        "url": "https://www.postalfinance.co.il/",
+        "name": "דואר פיננסים",
+        "category": 8,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1013,
+        "url": "https://textratz.co.il/",
+        "name": "טקסט רץ - הוצאה לאור",
+        "category": 4,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1014,
+        "url": "https://baatzatcha.co.il/",
+        "name": "בעצתך תנחני - סדרת ספרים",
+        "category": 1,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1015,
+        "url": "https://shabbesmakeup.com/",
+        "name": "Shabbes Makeup - איפור שבת",
+        "category": 17,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1016,
+        "url": "https://he.mishpacha.com/",
+        "name": "עיתון משפחה",
+        "category": 11,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1017,
+        "url": "https://www.atrakzya.co.il/",
+        "name": "אטרקציה - מהיבואן לצרכן",
+        "category": 4,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1018,
+        "url": "https://www.dukasit.co.il/",
+        "name": "דוכסית – בלוגרית אופנה דתייה",
+        "category": 17,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1019,
+        "url": "https://maya.tase.co.il/",
+        "name": "מאיה - אתר הבורסה",
+        "category": 8,
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "id": 1020,
+        "url": "https://www.top-boilers.co.il/",
+        "name": "טופ דודים - דודי שמש וחשמל",
+        "category": 4,
+        "level": 0,
+        "gender": 0
     }
 ]
