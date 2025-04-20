@@ -1,8 +1,8 @@
- {
+{
   "files": [
     {
       "name": "sites.json",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/sites.json"
     },
     {
@@ -30,7 +30,7 @@
       "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/blocked_resources.json"
     },
-   {
+    {
       "name": "requests_responses.json",
       "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/requests/requests_responses.json"
