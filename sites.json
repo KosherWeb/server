@@ -7078,5 +7078,109 @@
     "category": 4,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1021,
+    "url": "https://cyclestrading.com/",
+    "name": "פוקוס טריידר",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1022,
+    "url": "https://limudyomi.com/",
+    "name": "לימוד יומי",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1023,
+    "url": "https://ladaat.co/",
+    "name": "לדעת",
+    "category": 0,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1024,
+    "url": "https://mikyab.net/",
+    "name": "הרב מיכאל אברהם",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1025,
+    "url": "https://male-halal.co.il/",
+    "name": "למלא את החלל",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1026,
+    "url": "https://super-hist.co.il/entry_validate/",
+    "name": "הסופר החברתי מבית ההסתדרות",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1027,
+    "url": "https://www.rachelikerenwigs.co.il/",
+    "name": "רחלי קרן פאות",
+    "category": 17,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1028,
+    "url": "https://derechhabayit.com/",
+    "name": "דרך הבית",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1029,
+    "url": "https://www.greendays.app/",
+    "name": "GreenDays.co.il - גג סולארי",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1030,
+    "url": "https://rabbimeir.co/",
+    "name": "הרב מאיר אליהו",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1031,
+    "url": "https://www.jobnet.co.il/",
+    "name": "דרושים - Jobnet",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1032,
+    "url": "https://mosadharavkook.com/",
+    "name": "מוסד הרב קוק",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1033,
+    "url": "https://sellameir.com/",
+    "name": "סלע מאיר - הוצאת ספרים",
+    "category": 4,
+    "level": 0,
+    "gender": 0
   }
 ]
