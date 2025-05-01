@@ -1,704 +1,722 @@
 [
-    {
-        "value": "www.youtube.com",
-        "status": 4,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.tiktok.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "aliexpress.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "shein.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "moovit.onelink.me",
-        "status": 10,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "dailymotion.com",
-        "status": 8,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "play.google.com",
-        "status": 5,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "13tv.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "sites.google.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "kan.org.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "wikipedia.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "kipa.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "liteapks.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.google.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "brawlstars.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "jut-su.net",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.bandsintown.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "isport.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "facebook.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "pixabay.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "site123.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "t.me",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.canva.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "m.alibaba.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.temu.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.zara.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.footlocker.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.sacara.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.instagram.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.ynet.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "lp6.senzey.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "accounts.nike.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "survey.polyeda.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.atzuma.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.wikirefua.org.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.pinterest.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "super-pharm.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "ngl.link",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "now14.co.il",
-        "status": 9,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "golfkids.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "suno.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.dropbox.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "ravpage.co.il",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "doubleclick.net",
-        "status": 15,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "apkcombo.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "app.dudeperfect.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "garticphone.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.delta.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.aireuropa.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.telegram.org",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "kiwi-kids.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "buyme.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "il.academe.plus",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.spotify.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "sourceforge.net",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.adobe.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.adidas.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tunebat.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.baba-mail.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.seaschool.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "walitex.com",
-        "status": 1,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.kankids.org.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "fxnow.fxnetworks.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.lupa.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.israelhayom.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.sport5.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.one.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "shavshevet.tickchak.co.il",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.castro.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "il.secretly.world",
-        "status": 11,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "asos.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "walla.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "makorrishon.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.golfgroup.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "getshopdeal.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "vimeo.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.midrag.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tickchak.co.il",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "market.yad2.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.dugit.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.booking.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.terminalx.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "he.m.wikipedia.org",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "jacobhotels.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.apkmirror.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "liveball.uno",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.ourboox.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.sahbak.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "xdaforums.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.ice.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "apkmody.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "rumble.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.cashback.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.kipling-usa.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "agalease-baby.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "adahlazorgan.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tzz.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "cellcom.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "shanijacobi.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "youtube.com",
-        "status": 4,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "shop.yafa-maximov.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "online.anyflip.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "chatgpt.com",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.payngo.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.huggies.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.maxstock.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.wikipedia.org",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "podcastim.org.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "wingate.org.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.mediafire.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "n12.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "commons.m.wikimedia.org",
-        "status": 1,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.cal-store.co.il",
-        "status": 7,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.calameo.com",
-        "status": 6,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.icloud.com",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "embyil.tv",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "shironet.mako.co.il",
-        "status": 3,
-        "level": 0,
-        "gender": 0
-    }
+  {
+    "value": "www.youtube.com",
+    "status": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.tiktok.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "aliexpress.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "shein.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "moovit.onelink.me",
+    "status": 10,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "dailymotion.com",
+    "status": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "play.google.com",
+    "status": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "13tv.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "sites.google.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "kan.org.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "wikipedia.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "kipa.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "liteapks.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.google.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "brawlstars.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "jut-su.net",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.bandsintown.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "isport.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "facebook.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "pixabay.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "site123.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "t.me",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.canva.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "m.alibaba.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.temu.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.zara.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.footlocker.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.sacara.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.instagram.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.ynet.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "lp6.senzey.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "accounts.nike.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "survey.polyeda.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.atzuma.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.wikirefua.org.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.pinterest.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "super-pharm.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "ngl.link",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "now14.co.il",
+    "status": 9,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "golfkids.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "suno.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.dropbox.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "ravpage.co.il",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "doubleclick.net",
+    "status": 15,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "apkcombo.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app.dudeperfect.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "garticphone.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.delta.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.aireuropa.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.telegram.org",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "kiwi-kids.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "buyme.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "il.academe.plus",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.spotify.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "sourceforge.net",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.adobe.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.adidas.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tunebat.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.baba-mail.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.seaschool.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "walitex.com",
+    "status": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.kankids.org.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "fxnow.fxnetworks.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.lupa.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.israelhayom.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.sport5.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.one.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "shavshevet.tickchak.co.il",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.castro.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "il.secretly.world",
+    "status": 11,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "asos.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "walla.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "makorrishon.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.golfgroup.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "getshopdeal.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "vimeo.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.midrag.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tickchak.co.il",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "market.yad2.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.dugit.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.booking.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.terminalx.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "he.m.wikipedia.org",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "jacobhotels.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.apkmirror.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "liveball.uno",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.ourboox.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.sahbak.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "xdaforums.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.ice.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "apkmody.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "rumble.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.cashback.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.kipling-usa.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "agalease-baby.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "adahlazorgan.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tzz.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "cellcom.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "shanijacobi.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "youtube.com",
+    "status": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "shop.yafa-maximov.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "online.anyflip.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "chatgpt.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.payngo.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.huggies.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.maxstock.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.wikipedia.org",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "podcastim.org.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "wingate.org.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.mediafire.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "n12.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "commons.m.wikimedia.org",
+    "status": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.cal-store.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.calameo.com",
+    "status": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.icloud.com",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "embyil.tv",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "shironet.mako.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.ailxepress.com",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "lierac.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bit.ly",
+    "status": 19,
+    "level": 0,
+    "gender": 0
+  }
 ]
