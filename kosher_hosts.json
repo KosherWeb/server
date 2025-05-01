@@ -1,1492 +1,1537 @@
 [
-    {
-        "value": "accounts.google.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "gov.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "KosherWeb:block",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.mashov.info",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "lgn.edu.gov.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "drive.google.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "myaccount.google.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "bankleumi.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "start.telebank.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "login3.stg.cd.id.hp.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "safepage.neto.net.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.whatsapp.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "rimon.net.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.meser10.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "linktr.ee",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.microsoftonline.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "my.siteground.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "chitadelivery-cx.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "donation.asakimerp.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "lln.tfaforms.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "edu.google.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "members.lionwheel.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "account.samsung.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "app.paamonim.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "disttracking.orian.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "lp.vp4.me",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "gds.google.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "bitpay.poalimlinks.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "americanexpress.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.netspark.support",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "bar2go.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "madanes.easysend.app",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "secure.cardcom.solutions",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mobile.comax.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "icom.yaad.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "my.schooler.biz",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "forms.office.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "myassuta.formtitan.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "app.upay.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.cheetahdelivery.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.openai.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.hrl.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "app-rimon.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "account.live.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "confirmation.atmos.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.femi.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "feed.b-elect.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.pairzon.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "live.or-bit.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "malahn.aminutapps.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.metropolinet.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.causematch.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "yahav.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "dbank.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "dclub.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "app.fireberry.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "cityforms.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "il.dsv.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "portal.smoove.io",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "run.ydm.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "global.cainiao.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.isracard-gift.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "cloud.amital.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "bizlabor.formtitan.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.midgampanel.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "rishumon.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.pulseem.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tak.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "meshulam.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "unq.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mda.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mishnatyosef.org",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "riseup.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "moovit.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.electra-getservice.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "harav-yoni.ravpage.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "admin.lyncpix.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "shadow-order.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.machon-mor.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "iec.digitalnow.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "picndo.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "accounts.spotify.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "sm-dashboard-frontend-production.up.railway.app",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "circle-a.academy",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "app.teaser.ltd",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "sms2010.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tic.li",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "gifts.xgiftcard.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "c.howazit.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.whatsappmods.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "signup.live.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.jgive.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "ln.artisansonics.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.haturki.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.banamashkaot.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "weizmann.ac.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "friends.walla.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "block.opendns.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "academy.tatmoda.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "app.mobile.me.app",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.02ws.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tracking.buzzr.biz",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "shtiglitz.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "join.yedidim1230.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "ranad-software.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "studentreg.or-bit.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "formtitan.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "support.axioma.life",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "chita-il.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "me-qr.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "pay24.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "itim.uptv.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "jointoclalit.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.mendiyeruslavski.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.prasdanielle.org",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "bustoohel.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "validate.perfdrive.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "forms.coognitive.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mygabay.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.six13.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "shimushon.yedidim1230.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "buymeacoffee.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "bakeyourcake.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "movement.activetrail.biz",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "direct.tranzila.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "lm101.bestweb.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "c-all.carbynenet.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "achiyacohen.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "message.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "presents.htzone.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "yotvata.clap.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "simulator.sidurbav.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "maor.orhachaim.org",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.lockerim.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "attengo.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "icredit.rivhit.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "sumit.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "200wedding.israel-online-academy.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "safepage.etrog.net.i",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "sign.newp.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "nofeshrentals.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "giveback.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "gaashwd.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "l.wl.co",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "yad2.knowyyy.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mikvah.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "akulinarium.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "project.ourday.me",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.kavod.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "winestatus.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "ten-low.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "nbp-digital.bezeq.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "livingkiddushhashem.org",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "slink.k4a.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "aumantax.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "l.e2grsvp.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "yagdiltora.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": ".muni.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.hughug.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "chidonim.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.halalit.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "simchonim.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.peach-in.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.tazman.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "petel.stweizmann.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.panel4all.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "gilchain.clap.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "cloud-xip.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "chabad.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "givathashalvah.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "app.wisecard.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "bracha.my-place.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "customers.easybizy.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "f2.freeivr.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "galimt.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "my.billagan.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "daat.israel-online-academy.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.beregelyamin.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "galit-gilboa.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "alonim-mgar.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.ezcast.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "efish.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "jobmaster.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "staff.noarlatet.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "imeinu.org",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "teams.microsoft.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "forms.mvs.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mitug-studio.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "my.tofsy.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "support.microsoft.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.mafteach14-18.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.smartmovetlv.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "trans.sogo-wp.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "asos-il.apgecommerce.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.mobitti.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "maxapp.onelink.me",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "onlinekosherwine.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "thedreamraffle.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "lev1.online",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mailchi.mp",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "qr-cf.samsungiots.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tracking.relay.delivery",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "keinan-sheffy.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.nevo.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "filter.cohenkosherstore.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "easydoc.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "focuslogistics.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "bigteam.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.hilula.org",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "forms.monday.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.tchiya-shtemer.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "matching.click",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "lyncpix.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "cdn.glassix.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.ipanel.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "minisites.howazit.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.sefaria.org",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "yv148500.wixsite.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "wnreturns.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.bi.responsa.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "smoobu.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "powerdoc.co",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.snpv.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "manage.microsoft.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.myairbridge.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "nship.t-z.it",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "dragontailsystems.freshdesk.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "ilan-glass.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "extra.diners.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "81913.pixieset.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "hidoc.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "app.ovdim.io",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "hub.flashy.app",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "365plus.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mivtzar-hatorah.seeplus.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "targetmotors.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "fishingaddicts.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "eitanazaria.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "phish.opendns.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mltp.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.ynrcollege.org",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "passover-charity-2022-prod.herokuapp.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "record-digital.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "channel14.web-prd.immergo.tv",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "minisite.ms",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "cbcgroup.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "clinic.poppins.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.classe.world",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "meirkids.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.mhd-shop.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "cmtm.israel-online-academy.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tzl.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "links.f5h.co",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "content.winner.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "mountofolives.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "apps.dialmyapp.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "payplus.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "gamaf.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "shmuliksukkot.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "isgav.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "liatkatifa53.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tmura.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "vip.vipbengurion.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "weedex.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "d2s8op9diglqrw.cloudfront.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "customers.tor-house.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "ortalraisman.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.perach.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "web-mania-portfilio.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "imunify-alert.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "gynecologist-25.form-wizard.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "ship.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "pay.tabit.cloud",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "kesherhk.info",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "jmc.ac.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "hac.ac.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "kivun.biz",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "magicschool.ai",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "yosefb.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "katzd.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "firebaseapp.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "a.run.app",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "form.asana.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "orderpos.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "more.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "web.betayeda.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "yedion.ort.org.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "selabonded.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "onelink.me",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "forms.new",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "tamal.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "giftcards.easybizy.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "easydo.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "comeunity.me",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "www.sz3dp.com",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "uclicks.inforu.net",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "eshnav-c9a05.web.app",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "podcast.c14.co.il",
-        "level": 0,
-        "gender": 0
-    }
+  {
+    "value": "accounts.google.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "gov.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "KosherWeb:block",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.mashov.info",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "lgn.edu.gov.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "drive.google.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "myaccount.google.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bankleumi.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "start.telebank.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "login3.stg.cd.id.hp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "safepage.neto.net.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.whatsapp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "rimon.net.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.meser10.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "linktr.ee",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.microsoftonline.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "my.siteground.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "chitadelivery-cx.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "donation.asakimerp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "lln.tfaforms.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "edu.google.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "members.lionwheel.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "account.samsung.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app.paamonim.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "disttracking.orian.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "lp.vp4.me",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "gds.google.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bitpay.poalimlinks.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "americanexpress.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.netspark.support",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bar2go.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "madanes.easysend.app",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "secure.cardcom.solutions",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "mobile.comax.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "icom.yaad.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "my.schooler.biz",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "forms.office.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "myassuta.formtitan.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app.upay.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.cheetahdelivery.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.openai.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.hrl.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app-rimon.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "account.live.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "confirmation.atmos.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.femi.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "feed.b-elect.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.pairzon.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "live.or-bit.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "malahn.aminutapps.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.metropolinet.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.causematch.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "yahav.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "dbank.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "dclub.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app.fireberry.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "cityforms.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "il.dsv.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "portal.smoove.io",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "run.ydm.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "global.cainiao.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.isracard-gift.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "cloud.amital.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bizlabor.formtitan.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.midgampanel.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "rishumon.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.pulseem.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tak.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "meshulam.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "unq.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "mda.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "mishnatyosef.org",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "riseup.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "moovit.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.electra-getservice.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "harav-yoni.ravpage.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "admin.lyncpix.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "shadow-order.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.machon-mor.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "iec.digitalnow.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "picndo.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "accounts.spotify.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "sm-dashboard-frontend-production.up.railway.app",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "circle-a.academy",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app.teaser.ltd",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "sms2010.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tic.li",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "gifts.xgiftcard.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "c.howazit.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.whatsappmods.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "signup.live.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.jgive.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "ln.artisansonics.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.haturki.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.banamashkaot.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "weizmann.ac.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "friends.walla.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "block.opendns.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "academy.tatmoda.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app.mobile.me.app",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.02ws.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tracking.buzzr.biz",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "shtiglitz.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "join.yedidim1230.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "ranad-software.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "studentreg.or-bit.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "formtitan.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "support.axioma.life",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "chita-il.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "me-qr.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "pay24.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "itim.uptv.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "jointoclalit.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.mendiyeruslavski.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.prasdanielle.org",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bustoohel.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "validate.perfdrive.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "forms.coognitive.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "mygabay.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.six13.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "shimushon.yedidim1230.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "buymeacoffee.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bakeyourcake.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "movement.activetrail.biz",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "direct.tranzila.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "lm101.bestweb.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "c-all.carbynenet.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "achiyacohen.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "message.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "presents.htzone.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "yotvata.clap.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "simulator.sidurbav.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "maor.orhachaim.org",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.lockerim.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "attengo.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "icredit.rivhit.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "sumit.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "200wedding.israel-online-academy.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "safepage.etrog.net.i",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "sign.newp.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "nofeshrentals.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "giveback.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "gaashwd.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "l.wl.co",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "yad2.knowyyy.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "mikvah.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "akulinarium.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "project.ourday.me",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.kavod.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "winestatus.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "ten-low.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "nbp-digital.bezeq.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "livingkiddushhashem.org",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "slink.k4a.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "aumantax.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "l.e2grsvp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "yagdiltora.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": ".muni.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.hughug.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "chidonim.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.halalit.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "simchonim.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.peach-in.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.tazman.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "petel.stweizmann.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.panel4all.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "gilchain.clap.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "cloud-xip.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "chabad.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "givathashalvah.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app.wisecard.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bracha.my-place.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "customers.easybizy.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "f2.freeivr.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "galimt.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "my.billagan.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "daat.israel-online-academy.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.beregelyamin.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "galit-gilboa.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "alonim-mgar.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.ezcast.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "efish.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "jobmaster.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "staff.noarlatet.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "imeinu.org",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "teams.microsoft.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "forms.mvs.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "my.tofsy.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "support.microsoft.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.mafteach14-18.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.smartmovetlv.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "trans.sogo-wp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "asos-il.apgecommerce.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.mobitti.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "maxapp.onelink.me",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "onlinekosherwine.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "thedreamraffle.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "lev1.online",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "mailchi.mp",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "qr-cf.samsungiots.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tracking.relay.delivery",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "keinan-sheffy.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.nevo.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "filter.cohenkosherstore.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "easydoc.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "focuslogistics.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bigteam.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.hilula.org",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "forms.monday.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.tchiya-shtemer.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "matching.click",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "lyncpix.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "cdn.glassix.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.ipanel.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "minisites.howazit.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.sefaria.org",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "yv148500.wixsite.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "wnreturns.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.bi.responsa.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "smoobu.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "powerdoc.co",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.snpv.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "manage.microsoft.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.myairbridge.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "nship.t-z.it",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "dragontailsystems.freshdesk.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "ilan-glass.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "extra.diners.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "81913.pixieset.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "hidoc.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app.ovdim.io",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "hub.flashy.app",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "365plus.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "mivtzar-hatorah.seeplus.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "targetmotors.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "fishingaddicts.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "eitanazaria.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "phish.opendns.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "mltp.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.ynrcollege.org",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "passover-charity-2022-prod.herokuapp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "record-digital.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "channel14.web-prd.immergo.tv",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "minisite.ms",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "cbcgroup.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "clinic.poppins.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.classe.world",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "meirkids.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.mhd-shop.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "cmtm.israel-online-academy.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tzl.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "links.f5h.co",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "content.winner.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "mountofolives.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "apps.dialmyapp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "payplus.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "gamaf.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "shmuliksukkot.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "isgav.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "liatkatifa53.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tmura.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "vip.vipbengurion.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "weedex.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "d2s8op9diglqrw.cloudfront.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "customers.tor-house.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "ortalraisman.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.perach.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "web-mania-portfilio.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "imunify-alert.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "gynecologist-25.form-wizard.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "ship.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "pay.tabit.cloud",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "kesherhk.info",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "jmc.ac.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "hac.ac.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "kivun.biz",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "magicschool.ai",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "yosefb.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "katzd.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "firebaseapp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "a.run.app",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "form.asana.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "orderpos.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "more.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "web.betayeda.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "yedion.ort.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "selabonded.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "onelink.me",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "forms.new",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tamal.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "giftcards.easybizy.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "easydo.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "comeunity.me",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.sz3dp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "uclicks.inforu.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "eshnav-c9a05.web.app",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "podcast.c14.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "cp.responder.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "eagle-fl.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "app.miniextensions.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.rumble.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "yehudaheller.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.pereky.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "bneidavidmp3.media-line.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "rishum.app",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.pickmypic.pics",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.yba-nehiga.org.il",
+    "level": 0,
+    "gender": 0
+  }
 ]
