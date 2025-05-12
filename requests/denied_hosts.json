@@ -718,5 +718,29 @@
     "status": 19,
     "level": 0,
     "gender": 0
+  },
+  {
+    "value": "www.ebay.com",
+    "status": 9,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.intima-il.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "morenad.co.il",
+    "status": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.pinterest.co.uk",
+    "status": 3,
+    "level": 0,
+    "gender": 0
   }
 ]
