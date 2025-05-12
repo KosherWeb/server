@@ -1533,5 +1533,45 @@
     "value": "www.yba-nehiga.org.il",
     "level": 0,
     "gender": 0
+  },
+  {
+    "value": "external-issuing.cal-platform.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "wse.comsigntrust.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "receipts.weezmo.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "anashim.org.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.diginet.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "israc.mitnadvim4u.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "katzonline.ziperdrop.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "form.cellosign.co",
+    "level": 0,
+    "gender": 0
   }
 ]
