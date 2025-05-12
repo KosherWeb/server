@@ -1328,14 +1328,6 @@
     "gender": 0
   },
   {
-    "id": 281,
-    "url": "https://www.date4dos.co.il/",
-    "name": "שליש גן עדן",
-    "category": 13,
-    "level": 0,
-    "gender": 0
-  },
-  {
     "id": 282,
     "url": "https://www.7brachot.co.il/",
     "name": "שבע ברכות - הכרויות לדתיים",
@@ -7179,6 +7171,94 @@
     "id": 1033,
     "url": "https://sellameir.com/",
     "name": "סלע מאיר - הוצאת ספרים",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1034,
+    "url": "https://www.inter-il.com/",
+    "name": "אינטרקטיב ישראל - Interactive Israel",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1035,
+    "url": "https://shlish.co.il/",
+    "name": "שליש גן עדן",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1036,
+    "url": "https://www.niby.org.il/",
+    "name": "ישיבת נתיבות ישראל",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1037,
+    "url": "https://webhook.site/",
+    "name": "Webhook.site",
+    "category": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1038,
+    "url": "https://balcar.co.il/",
+    "name": "דוח בלקר",
+    "category": 14,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1039,
+    "url": "https://xn--5dbq7be.xn--4dbrk0ce/",
+    "name": "לג בעומר - רשבי",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1040,
+    "url": "https://uliwood.co.il/",
+    "name": "אוליווד רהיטים",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1041,
+    "url": "https://www.hagihon.co.il/",
+    "name": "חברת הגיחון",
+    "category": 12,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1042,
+    "url": "https://noachmts.co.il/",
+    "name": "Noach אבטחה רפואית\r",
+    "category": 9,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1043,
+    "url": "https://www.naharshalom.co.il/",
+    "name": "ישיבת נהר שלום",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1044,
+    "url": "https://www.yidbid.com/",
+    "name": "Yidbid - מכירות פומביות של ספרים",
     "category": 4,
     "level": 0,
     "gender": 0
