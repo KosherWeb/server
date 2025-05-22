@@ -7262,5 +7262,109 @@
     "category": 4,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1045,
+    "url": "https://www.victoryonline.co.il/",
+    "name": "ויקטורי אונליין",
+    "category": 16,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1046,
+    "url": "https://www.mdmigdalhaemeq.org/",
+    "name": "מועצה דתית מגדל העמק",
+    "category": 12,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1047,
+    "url": "https://www.kerenm.org/",
+    "name": "קרן המעשרות חב\"ד",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1048,
+    "url": "https://eliadlevy.co.il/",
+    "name": "אליעד לוי - קוסמטיקה לגבר",
+    "category": 9,
+    "level": 3,
+    "gender": 1
+  },
+  {
+    "id": 1049,
+    "url": "https://www.dormi.co.il/users/",
+    "name": "דורמי - ניהול אחזקה חכם",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1050,
+    "url": "https://boneiolam.co.il/",
+    "name": "בוני עולם",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1051,
+    "url": "https://shiduchin.friends-social.com/",
+    "name": "שידוכים לשם שמים",
+    "category": 13,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1052,
+    "url": "https://evenshtia.com/",
+    "name": "ספרי ברסלב אבן שתיה",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1053,
+    "url": "https://abc770.org/",
+    "name": "חב\"ד - אור אין סוף",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1054,
+    "url": "https://www.ebath.co.il/",
+    "name": "eBath - אביזרי אמבטיה",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1055,
+    "url": "https://www.hakotel.org.il/",
+    "name": "ישיבת הכותל",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1056,
+    "url": "https://y33.co.il/",
+    "name": "מלון ירמיהו 33",
+    "category": 11,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1057,
+    "url": "https://dvorachizkiya.co.il/product/אוצר-בממלכה-ספור-מותח/",
+    "name": "דבורה חזקיה - נעים בלמידה",
+    "category": 2,
+    "level": 0,
+    "gender": 0
   }
 ]
