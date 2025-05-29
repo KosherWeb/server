@@ -7361,8 +7361,104 @@
   },
   {
     "id": 1057,
-    "url": "https://dvorachizkiya.co.il/product/אוצר-בממלכה-ספור-מותח/",
+    "url": "https://dvorachizkiya.co.il/",
     "name": "דבורה חזקיה - נעים בלמידה",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1058,
+    "url": "https://www.kinar.co.il/",
+    "name": "מלון כינר גליל",
+    "category": 11,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1059,
+    "url": "https://www.guidestar.org.il/",
+    "name": "גיידסטאר - העמותות של ישראל",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1060,
+    "url": "https://imti.org.il/",
+    "name": "אם תרצו",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1061,
+    "url": "https://www.swiftness.co.il/",
+    "name": "המסלקה הפנסיונית",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1062,
+    "url": "https://www.aliya.org.il/",
+    "name": "מכון עליה",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1063,
+    "url": "https://www.akordim.com/",
+    "name": "AKORDIM | אקורדים לשירי קודש",
+    "category": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1064,
+    "url": "https://my-area.co.il/",
+    "name": "איזור אישי",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1065,
+    "url": "https://lladaat.co.il/",
+    "name": "לב לדעת - בית הספר לחסידות",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1066,
+    "url": "https://paletton.com/",
+    "name": "Paletton - פלטת צבעים",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1067,
+    "url": "https://colorhunt.co/",
+    "name": "Color Hunt - פלטת צבעים",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1068,
+    "url": "https://www.tripletech.co.il/",
+    "name": "TripleTech - טריפלטק",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1069,
+    "url": "https://www.ecomtrainingcenter.com/",
+    "name": "Ecom Training Center",
     "category": 2,
     "level": 0,
     "gender": 0
