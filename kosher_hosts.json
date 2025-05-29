@@ -1600,11 +1600,6 @@
     "gender": 0
   },
   {
-    "value": "tripletech.co.il",
-    "level": 0,
-    "gender": 0
-  },
-  {
     "value": "www.sekernet.co.il",
     "level": 0,
     "gender": 0
@@ -1616,6 +1611,36 @@
   },
   {
     "value": "forms.partner.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "hagralev.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "dkr1.ssisurveys.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "support.office.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "miftanherzliya.tik-tak.net",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "accounts.pixieset.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "goral.co.il",
     "level": 0,
     "gender": 0
   }
