@@ -7470,5 +7470,29 @@
     "category": 11,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1071,
+    "url": "https://www.kivun.org.il/",
+    "name": "מרכז כיוון",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1072,
+    "url": "https://www.daat.ac.il/",
+    "name": "דעת לימודי יהדות ורוח",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1073,
+    "url": "https://forum.mizrach.co.il/",
+    "name": "פורום כותל המזרח",
+    "category": 1,
+    "level": 0,
+    "gender": 0
   }
 ]
