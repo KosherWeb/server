@@ -984,14 +984,6 @@
     "gender": 0
   },
   {
-    "id": 238,
-    "url": "https://hadass.site/",
-    "name": "הדס - מאגר סרטונים כשרים",
-    "category": 10,
-    "level": 0,
-    "gender": 0
-  },
-  {
     "id": 239,
     "url": "https://col.org.il/",
     "name": "חבד און ליין",
@@ -7492,6 +7484,94 @@
     "url": "https://forum.mizrach.co.il/",
     "name": "פורום כותל המזרח",
     "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1074,
+    "url": "https://www.limudnaim.co.il/",
+    "name": "לימוד נעים | מורים פרטיים",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1075,
+    "url": "https://www.kamel-d.co.il/",
+    "name": "כאמל דואהרי ובניו | חקלאות",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1076,
+    "url": "https://igrot.com/",
+    "name": "אגרות קודש",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1077,
+    "url": "https://yedion.ono.ac.il/",
+    "name": "אונו תחנת מידע",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1078,
+    "url": "https://blog.nli.org.il/",
+    "name": "הספרנים - מגזין הספריה הלאומית",
+    "category": 11,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1079,
+    "url": "https://mekimi.org.il/",
+    "name": "מקימי - השער לכלכלה נבונה",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1080,
+    "url": "https://amargan.online/",
+    "name": "אמרגן פלוס",
+    "category": 11,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1081,
+    "url": "https://www.tinokat.co.il/",
+    "name": "\rתינוקט - מוצרי תינוקות וילדים",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1082,
+    "url": "https://minhagane.com/",
+    "name": "מן חקנא - תיקון קוראים תימני",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1083,
+    "url": "https://mamimush.co.il",
+    "name": "מאמימוש - זכויות היולדת החרדית",
+    "category": 18,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1084,
+    "url": "https://nettochisachon.com/",
+    "name": "נטו חיסכון",
+    "category": 4,
     "level": 0,
     "gender": 0
   }
