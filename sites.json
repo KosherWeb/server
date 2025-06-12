@@ -7574,5 +7574,125 @@
     "category": 4,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1085,
+    "url": "https://www.cochlear.com/",
+    "name": "Cochlear - מכשירי שמיעה",
+    "category": 9,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1086,
+    "url": "https://www.ramonstars.com/",
+    "name": "Ramon Stars – כוכבי רמון",
+    "category": 11,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1087,
+    "url": "https://mokedteva.co.il/",
+    "name": "מוקד טבע",
+    "category": 11,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1088,
+    "url": "https://www.noga-iso.co.il/",
+    "name": "נגה - ניהול מערכת חשמל",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1089,
+    "url": "https://www.cvwizard.com/",
+    "name": "CVwizard - קורות חיים",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1090,
+    "url": "https://ravarmonishop.com/",
+    "name": "אוצר הקבלה",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1091,
+    "url": "https://ahavaktana.co.il/",
+    "name": "אהבה קטנה",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1092,
+    "url": "https://www.zirat.news/",
+    "name": "זירת החדשות",
+    "category": 0,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1093,
+    "url": "https://www.maxtravel.co.il/",
+    "name": "MAX Travel",
+    "category": 11,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1094,
+    "url": "אוהה - Ohha",
+    "name": "OHHA",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1095,
+    "url": "https://www.orvishua.com/",
+    "name": "אור וישועה - חנות ספרי קודש",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1096,
+    "url": "https://melody-trails.com/",
+    "name": "טיולים בצלילים",
+    "category": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1097,
+    "url": "https://www.nahag.co.il/",
+    "name": "נהג בקליק",
+    "category": 14,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1098,
+    "url": "https://kosher.global/",
+    "name": "GOK - ארגון כשרות",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1099,
+    "url": "https://moodle4.michlala.edu/",
+    "name": "מודל מכללה ירושלים\r",
+    "category": 2,
+    "level": 0,
+    "gender": 0
   }
 ]
