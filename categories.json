@@ -1,154 +1,154 @@
 [
-    {
-        "id": 0,
-        "name": "חדשות",
-        "colorHex": "#FF3300",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_news.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 1,
-        "name": "יהדות",
-        "colorHex": "#007A00",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_judaism.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 2,
-        "name": "לימודים",
-        "colorHex": "#000099",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_study.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 3,
-        "name": "תנועות נוער",
-        "colorHex": "#999900",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_teens.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 4,
-        "name": "קניות",
-        "colorHex": "#007A7A",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_shopping.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 5,
-        "name": "כלים",
-        "colorHex": "#990099",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_tools.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 6,
-        "name": "אתרים ממשלתים",
-        "colorHex": "#CC6600",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_goverment.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 7,
-        "name": "מוזיקה",
-        "colorHex": "#660066",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_music.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 8,
-        "name": "פיננסי",
-        "colorHex": "#006666",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_finance.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 9,
-        "name": "בריאות",
-        "colorHex": "#CC6699",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_health.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 10,
-        "name": "סרטים וסרטונים",
-        "colorHex": "#007A00",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_video.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 11,
-        "name": "תרבות ופנאי",
-        "colorHex": "#330033",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_leisure.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 12,
-        "name": "עיריות ומועצות",
-        "colorHex": "#CC9900",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_councils.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 13,
-        "name": "עמותות",
-        "colorHex": "#CC4C00",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_association.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 14,
-        "name": "רכב ותחבצ",
-        "colorHex": "#4C4C66",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_car.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 15,
-        "name": "אינטרנט כשר",
-        "colorHex": "#993399",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_kosher_internet.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 16,
-        "name": "אוכל",
-        "colorHex": "#008080",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_food.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 17,
-        "name": "ביגוד (נשים)",
-        "colorHex": "#4C4C00",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_clothes.png",
-        "gender": 0,
-        "level": 0
-    },
-    {
-        "id": 18,
-        "name": "נשים",
-        "colorHex": "#CC6666",
-        "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_female.png",
-        "gender": 0,
-        "level": 0
-    }
+  {
+    "id": 0,
+    "name": "חדשות",
+    "colorHex": "#FF3300",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_news.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 1,
+    "name": "יהדות",
+    "colorHex": "#007A00",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_judaism.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 2,
+    "name": "לימודים",
+    "colorHex": "#000099",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_study.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 3,
+    "name": "ילדים ונוער",
+    "colorHex": "#999900",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_teens.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 4,
+    "name": "קניות",
+    "colorHex": "#007A7A",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_shopping.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 5,
+    "name": "כלים",
+    "colorHex": "#990099",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_tools.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 6,
+    "name": "אתרים ממשלתים",
+    "colorHex": "#CC6600",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_goverment.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 7,
+    "name": "מוזיקה",
+    "colorHex": "#660066",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_music.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 8,
+    "name": "פיננסי",
+    "colorHex": "#006666",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_finance.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 9,
+    "name": "בריאות",
+    "colorHex": "#CC6699",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_health.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 10,
+    "name": "סרטים וסרטונים",
+    "colorHex": "#007A00",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_video.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 11,
+    "name": "תרבות ופנאי",
+    "colorHex": "#330033",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_leisure.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 12,
+    "name": "עיריות ומועצות",
+    "colorHex": "#CC9900",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_councils.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 13,
+    "name": "עמותות",
+    "colorHex": "#CC4C00",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_association.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 14,
+    "name": "רכב ותחבצ",
+    "colorHex": "#4C4C66",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_car.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 15,
+    "name": "אינטרנט כשר",
+    "colorHex": "#993399",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_kosher_internet.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 16,
+    "name": "אוכל",
+    "colorHex": "#008080",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_food.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 17,
+    "name": "ביגוד (נשים)",
+    "colorHex": "#4C4C00",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_clothes.png",
+    "gender": 0,
+    "level": 0
+  },
+  {
+    "id": 18,
+    "name": "נשים",
+    "colorHex": "#CC6666",
+    "iconUrl": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categoryIcons/category_female.png",
+    "gender": 0,
+    "level": 0
+  }
 ]
