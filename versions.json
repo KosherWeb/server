@@ -2,12 +2,12 @@
   "files": [
     {
       "name": "sites.json",
-      "version": 11,
+      "version": 12,
       "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/sites.json"
     },
     {
       "name": "kosher_hosts.json",
-      "version": 7,
+      "version": 8,
       "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/kosher_hosts.json"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "name": "requests_responses.json",
-      "version": 8,
+      "version": 9,
       "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/requests/requests_responses.json"
     },
     {
       "name": "categories.json",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categories.json"
     },
     {
