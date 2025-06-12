@@ -1200,11 +1200,6 @@
     "gender": 0
   },
   {
-    "value": "passover-charity-2022-prod.herokuapp.com",
-    "level": 0,
-    "gender": 0
-  },
-  {
     "value": "record-digital.com",
     "level": 0,
     "gender": 0
@@ -1651,6 +1646,26 @@
   },
   {
     "value": "www.wedix.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "online.fliphtml5.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "uh-salesforce.herokuapp.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.superform.spot-nik.com",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "giftchoice.biz",
     "level": 0,
     "gender": 0
   }
