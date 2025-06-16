@@ -7649,8 +7649,8 @@
   },
   {
     "id": 1094,
-    "url": "אוהה - Ohha",
-    "name": "OHHA",
+    "url": "https://ohha.co.il/",
+    "name": "אוהה - OHHA",
     "category": 4,
     "level": 0,
     "gender": 0
@@ -7692,6 +7692,30 @@
     "url": "https://moodle4.michlala.edu/",
     "name": "מודל מכללה ירושלים\r",
     "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1100,
+    "url": "https://kidschabad.com/",
+    "name": "ערוץ חבד לילדים",
+    "category": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1101,
+    "url": "https://www.saharshitrit.co.il/",
+    "name": "סהר שטרית | מטפחות מעוצבות",
+    "category": 17,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1102,
+    "url": "https://www.szmc.org.il/",
+    "name": "שערי צדק - המרכז הרפואי",
+    "category": 9,
     "level": 0,
     "gender": 0
   }
