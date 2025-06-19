@@ -7689,8 +7689,8 @@
   },
   {
     "id": 1099,
-    "url": "https://moodle4.michlala.edu/",
-    "name": "מודל מכללה ירושלים\r",
+    "url": "https://www.michlala.edu/",
+    "name": "מכללה ירושלים\r",
     "category": 2,
     "level": 0,
     "gender": 0
@@ -7716,6 +7716,62 @@
     "url": "https://www.szmc.org.il/",
     "name": "שערי צדק - המרכז הרפואי",
     "category": 9,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1103,
+    "url": "https://elevenlabs.io/",
+    "name": "ElevenLabs - בינה מלאכותית",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1104,
+    "url": "https://breslevcenter.com/",
+    "name": "ברסלב סנטר",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1105,
+    "url": "https://safewayil.ovh/",
+    "name": "SafeWay – מקלט קרוב",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1106,
+    "url": "https://shir-bot.ze-kal.top/",
+    "name": "שיר-בוט | מאגר מוזיקה יהודית",
+    "category": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1107,
+    "url": "https://www.hemophilia.org.il/shift-schedule/",
+    "name": "עמותת על״ה - המופיליה",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1108,
+    "url": "https://www.danieldamari.co.il/",
+    "name": "דניאל דמארי - מסחר בשוק ההון",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1109,
+    "url": "https://www.microsoft.com/",
+    "name": "Microsoft - מיקרוסופט",
+    "category": 5,
     "level": 0,
     "gender": 0
   }
