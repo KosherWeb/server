@@ -5825,7 +5825,7 @@
   },
   {
     "id": 863,
-    "url": "https://he.hadassah.org.il/",
+    "url": "https://www.hadassah.org.il/",
     "name": "בית חולים הדסה",
     "category": 9,
     "level": 0,
@@ -7772,6 +7772,46 @@
     "url": "https://www.microsoft.com/",
     "name": "Microsoft - מיקרוסופט",
     "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1110,
+    "url": "https://lemaanyilmedo.org/",
+    "name": "למען ילמדו | המכללה להכשרה תורנית",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1111,
+    "url": "https://www.dynamometer.co.il/",
+    "name": "דינמומטר - מכון בדיקה לרכב",
+    "category": 14,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1112,
+    "url": "https://www.or-create.co.il/",
+    "name": "יוצרות אור",
+    "category": 18,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1113,
+    "url": "https://mr-m.co.il/",
+    "name": "רובי מיכאל\r - מתכונים",
+    "category": 16,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1114,
+    "url": "https://hatanya.com/",
+    "name": "התניא של הרבי",
+    "category": 1,
     "level": 0,
     "gender": 0
   }
