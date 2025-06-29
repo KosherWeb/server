@@ -7814,5 +7814,93 @@
     "category": 1,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1115,
+    "url": "https://smart-ivr.co.il/",
+    "name": "Smart IVR",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1116,
+    "url": "https://mbakodesh.org.il/",
+    "name": "מעלין בקודש - חבד",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1117,
+    "url": "https://www.kidoushin.com/",
+    "name": "קידושין - שידוכים",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1118,
+    "url": "https://xphone.co.il/",
+    "name": "XPhone - אקספון",
+    "category": 15,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1119,
+    "url": "https://tomerariel.co.il/",
+    "name": "תומר אריאל - תורת החשמל",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1120,
+    "url": "https://5dakot.net/",
+    "name": "מוצרי איכות לנשמה - 5 דקות",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1121,
+    "url": "https://www.teamviewer.com/",
+    "name": "TeamViewer",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1122,
+    "url": "https://app.bllink.co/",
+    "name": "בלינק - תשלומי ועד בית",
+    "category": 12,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1123,
+    "url": "https://chazon-ish.com/",
+    "name": "בית מרן החזון איש",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1124,
+    "url": "https://hemdat.plus/",
+    "name": "המכללה האקדמית חמדת",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1125,
+    "url": "https://yeda-phone.co.il/",
+    "name": "ידע פון",
+    "category": 15,
+    "level": 0,
+    "gender": 0
   }
 ]
