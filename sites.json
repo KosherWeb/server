@@ -7902,5 +7902,21 @@
     "category": 15,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1126,
+    "url": "https://www.bankmassad.co.il/",
+    "name": "בנק מסד",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1127,
+    "url": "https://michalwolshtain.co.il/",
+    "name": "מיכל וולשטיין",
+    "category": 18,
+    "level": 0,
+    "gender": 0
   }
 ]
