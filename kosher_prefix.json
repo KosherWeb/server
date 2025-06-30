@@ -1,32 +1,37 @@
 [
-    {
-        "value": "file:///android_asset/kosher_web.html",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "https://www.google.com/docs/about/",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "https://www.google.com/forms/about/",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "https://api.whatsapp.com/send?phone=",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "whatsapp://send",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "https://www.google.com/drive/",
-        "level": 0,
-        "gender": 0
-    }
+  {
+    "value": "file:///android_asset/kosher_web.html",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "https://www.google.com/docs/about/",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "https://www.google.com/forms/about/",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "https://api.whatsapp.com/send?phone=",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "whatsapp://send",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "https://www.google.com/drive/",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "https://mypips.link/ashukahevrati-einat/",
+    "level": 0,
+    "gender": 0
+  }
 ]
