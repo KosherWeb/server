@@ -1738,5 +1738,10 @@
     "value": "pay.hyp.co.il",
     "level": 0,
     "gender": 0
+  },
+  {
+    "value": "mail-attachment.googleusercontent.com",
+    "level": 0,
+    "gender": 0
   }
 ]
