@@ -7926,5 +7926,37 @@
     "category": 13,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1129,
+    "url": "https://lishkat.co.il/",
+    "name": "לשכת הילדים",
+    "category": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1130,
+    "url": "https://www.akolbopro.co.il/",
+    "name": "הכלבו לתעשייה",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1131,
+    "url": "https://www.focus-academy.co.il/",
+    "name": "פוקוס - מרכז ידע למשכנתאות\r",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1132,
+    "url": "https://www.shazartech.co.il/",
+    "name": "שזר - כלי עבודה וציוד",
+    "category": 4,
+    "level": 0,
+    "gender": 0
   }
 ]
