@@ -7958,5 +7958,53 @@
     "category": 4,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1133,
+    "url": "https://mendin.co.il/",
+    "name": "Mendin - מנדרין מתנות",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1134,
+    "url": "https://www.kravitz.co.il/",
+    "name": "קרביץ",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1135,
+    "url": "https://nikib.co.il/",
+    "name": "ניקי ב - מתכונים",
+    "category": 16,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1136,
+    "url": "https://clicktack.com/",
+    "name": "ClickTack - קליקטאק",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1137,
+    "url": "https://thebaker.science/",
+    "name": "האופה",
+    "category": 16,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1138,
+    "url": "https://www.lamdanbooks.co.il/",
+    "name": "למדן - בית הספרים",
+    "category": 1,
+    "level": 0,
+    "gender": 0
   }
 ]
