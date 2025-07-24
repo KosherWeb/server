@@ -772,5 +772,11 @@
     "status": 3,
     "level": 0,
     "gender": 0
+  },
+  {
+    "value": "tickets.cinema-city.co.il",
+    "status": 7,
+    "level": 0,
+    "gender": 0
   }
 ]
