@@ -1233,7 +1233,7 @@
   },
   {
     "id": 270,
-    "url": "https://hadran.net/",
+    "url": "https://hadran.koshersystem.com/",
     "name": "הדרן",
     "category": 15,
     "level": 0,
@@ -8004,6 +8004,190 @@
     "url": "https://www.lamdanbooks.co.il/",
     "name": "למדן - בית הספרים",
     "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1139,
+    "url": "https://achlatot-tovot.com/",
+    "name": "החלטות טובות - בית חב\"ד",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1140,
+    "url": "https://www.komo.co.il/",
+    "name": "לוח קומו - נדל\"ן",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1141,
+    "url": "https://tashma.co.il/",
+    "name": "תא שמע",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1142,
+    "url": "https://www.ethiopianairlines.com/",
+    "name": "Ethiopian Airlines",
+    "category": 14,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1143,
+    "url": "https://anash.org/",
+    "name": "Anash.org - אנש",
+    "category": 0,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1144,
+    "url": "https://psagot-moodle.org/",
+    "name": "מכללת פסגות | Psagot LMS",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1145,
+    "url": "https://artscrollisrael.co.il/",
+    "name": "ארטסקרול ישראל",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1146,
+    "url": "https://kehilotcard.co.il/",
+    "name": "קהילות קארד",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1147,
+    "url": "https://www.israel-judaica.com/",
+    "name": "ארט יודאיקה",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1148,
+    "url": "https://kidum-me.com/",
+    "name": "קידום | Kidum",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1149,
+    "url": "https://indesign.tips/",
+    "name": "אינדיזיין | InDesign.tips",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1150,
+    "url": "https://m.teoria4u.co.il/",
+    "name": "תיאוריה 4U",
+    "category": 2,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1151,
+    "url": "https://harhamor.co.il/",
+    "name": "ישיבת הר המור",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1152,
+    "url": "https://ofaleshabat.com/",
+    "name": "אופה לשבת",
+    "category": 16,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1153,
+    "url": "https://www.jacobi.co.il/",
+    "name": "יעקבי",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1154,
+    "url": "https://www.cbtisrael.co.il/",
+    "name": "מכון CBT ישראל",
+    "category": 9,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1155,
+    "url": "https://www.bookplus.co.il/",
+    "name": "ספר פלוס",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1156,
+    "url": "https://www.yhr.org.il/",
+    "name": "חכמת רחמים",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1157,
+    "url": "https://www.mini.co.il/",
+    "name": "MINI - רכב",
+    "category": 14,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1158,
+    "url": "https://collanta.co.il/",
+    "name": "קולנטה - גרביונים",
+    "category": 17,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1159,
+    "url": "https://shiduchin.friends-social.com/",
+    "name": "פורטל שידוכין לשם שמיים",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1160,
+    "url": "https://www.oorep.com/",
+    "name": "OOREP | רפואה הומאופטית",
+    "category": 9,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1161,
+    "url": "https://clickcall.co.il/",
+    "name": "קליקול תקשורת",
+    "category": 5,
     "level": 0,
     "gender": 0
   }
