@@ -8190,5 +8190,85 @@
     "category": 5,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1162,
+    "url": "https://meditik.medical.idf.il/",
+    "name": "MediTik - צה\"ל",
+    "category": 9,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1163,
+    "url": "https://jtechforums.org/",
+    "name": "JTech Forums - פורום טכנולוגיה",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1164,
+    "url": "https://www.mercedes-benz.co.il/",
+    "name": "Mercedes-Benz - מרצדס",
+    "category": 14,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1165,
+    "url": "https://www.lionwheel.com/",
+    "name": "LionWheel - ניהול משלוחים",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1166,
+    "url": "https://il.usembassy.gov/",
+    "name": "שגרירות ארצות הברית",
+    "category": 6,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1167,
+    "url": "https://alonim.co.il/",
+    "name": "אלונים",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1168,
+    "url": "https://www.coffeeman.co.il/",
+    "name": "אמיגו קפה",
+    "category": 16,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1169,
+    "url": "http://meser.biz/",
+    "name": "מסר פתרונות תקשורת",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1170,
+    "url": "https://aish.com/",
+    "name": "Aish.com",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1171,
+    "url": "https://perelproductions.co.il/",
+    "name": "לאחוז בחול - לצפייה",
+    "category": 10,
+    "level": 0,
+    "gender": 0
   }
 ]
