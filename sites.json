@@ -8270,5 +8270,109 @@
     "category": 10,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1172,
+    "url": "https://sherut-leumi.co.il/",
+    "name": "שירות לאומי - האגודה להתנדבות ",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1173,
+    "url": "https://il.investing.com/",
+    "name": "Investing.com",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1174,
+    "url": "https://www.livinglchaim.com/",
+    "name": " Living Lchaim",
+    "category": 7,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1175,
+    "url": "https://www.pagi.co.il/",
+    "name": "בנק פאגי",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1176,
+    "url": "https://rudik.co.il/",
+    "name": "רודיק - ספרים ומכשירי כתיבה",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1177,
+    "url": "https://plus.meaningfulminute.org/",
+    "name": "Meaningful Minute",
+    "category": 10,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1178,
+    "url": "https://www.mitsubishidirectparts.com/",
+    "name": "\rMitsubishi Direct Parts",
+    "category": 14,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1179,
+    "url": "https://www.shlager.com/",
+    "name": "שלאגר - לוקרים חכמים",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1180,
+    "url": "https://glorykids.co.il/",
+    "name": "גלורי - בגדי ילדים",
+    "category": 17,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1181,
+    "url": "https://mercazharav.org.il/",
+    "name": "ישיבת מרכז הרב",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1182,
+    "url": "https://myarea.csb.co.il/login/?timeout=true",
+    "name": "C.S.B - שירות סי.אס.בי\r",
+    "category": 5,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1183,
+    "url": "https://shaharwolf.com/",
+    "name": "שחר וולף - כלכלה",
+    "category": 8,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1184,
+    "url": "https://www.madlan.co.il/",
+    "name": "מדלן - לוח נדלן",
+    "category": 4,
+    "level": 0,
+    "gender": 0
   }
 ]
