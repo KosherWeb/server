@@ -49,7 +49,7 @@
   "versions": {
     "app-version": 33,
     "supported-app-version": 32,
-    "request-form-version": 32,
+    "request-form-version": 38,
     "premium": 2
   }
 }
