@@ -2,7 +2,7 @@
   "files": [
     {
       "name": "sites.json",
-      "version": 23,
+      "version": 24,
       "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/sites.json"
     },
     {
